@@ -2,7 +2,7 @@
 
 * Campaigns need clear goals which can be used to measure progress
 * Goals need to be realilistic and achievable
-* Goals should be inspirational and motivating - we need to mobolise people to achieve them
+* Goals should be inspirational and motivating - we need to mobilize people to achieve them
 * Goals should be easy to understand and communicate
 * Don't overload yourself, so you can achieve, move on and maintain momentum
 * Goals should be organised into a development sequence, so we can work from simple, achievable steps that we can achieve in the short term, to longer term victories
